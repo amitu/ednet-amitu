@@ -7,3 +7,9 @@
 
 -- fastn.auto-import: bling/chat as chat
 -- fastn.auto-import: ds
+
+-- fastn.sitemap:
+
+# Home: /
+# Github
+  url: https://github.com/amitu/ednet-amitu
