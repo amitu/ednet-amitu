@@ -2,10 +2,8 @@
 
 -- fastn.package: amitu.github.io/ednet-amitu
 
--- fastn.dependency: fifthtry.github.io/doc-site as ds
--- fastn.dependency: ednet-protocol.github.io/ednet-content
-
--- fastn.auto-import: ds
+-- fastn.dependency: ednet-protocol.github.io/ednet-content as ec
+-- fastn.auto-import: ec
 
 -- fastn.sitemap:
 
@@ -14,6 +12,7 @@
 - Home: /
 - Tech:
   - Day To Day Git: /tech/git/
+    - Clone: /tech/git/clone/
 
 # Github
   url: https://github.com/amitu/ednet-amitu
