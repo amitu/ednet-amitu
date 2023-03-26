@@ -16,7 +16,7 @@ $clone.concept.about
 
 
 -- ec.syllabus syllabus: Day To Day Git
-url: /tech/git/
+url: tech/git/
 concepts: $concepts
 
 This syllabus is about learning enough git to use it on a day to day basis.
