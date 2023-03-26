@@ -1,15 +1,19 @@
 -- import: fastn
 
--- fastn.package: ednet-protocol.github.io/board-template
+-- fastn.package: amitu.github.io/ednet-amitu
 
 -- fastn.dependency: fifthtry.github.io/doc-site as ds
--- fastn.dependency: fifthtry.github.io/bling as bling
+-- fastn.dependency: ednet-protocol.github.io/ednet-content
 
--- fastn.auto-import: bling/chat as chat
 -- fastn.auto-import: ds
 
 -- fastn.sitemap:
 
 # Home: /
+
+- Home: /
+- Tech:
+  - Day To Day Git: /tech/git/
+
 # Github
   url: https://github.com/amitu/ednet-amitu
