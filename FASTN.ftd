@@ -7,12 +7,12 @@
 
 -- fastn.sitemap:
 
-# Home: /
+# Home: index.html
 
-- Home: /
+- Home: index.html
 - Tech:
-  - Day To Day Git: /tech/git/
-    - Clone: /tech/git/clone/
+  - Day To Day Git: tech/git/
+    - Clone: tech/git/clone/
 
 # Github
   url: https://github.com/amitu/ednet-amitu
